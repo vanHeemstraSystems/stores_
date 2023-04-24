@@ -1,5 +1,5 @@
-# 100 - Undress & Commute
+# 100 - Commute
 
-![Stores-Undress_Commute](https://user-images.githubusercontent.com/1499433/233925888-0bc1da26-5303-4a7f-8479-953dc7a515a4.png)
+![Stores-Commute](https://user-images.githubusercontent.com/1499433/233996226-624e633e-023d-468c-9112-fe48545cbe34.png)
 
-Undress & Commute
+Commute
