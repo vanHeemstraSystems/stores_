@@ -5,7 +5,7 @@ Stores
 
 ## 200 - Requirements
 
-## 300 - Buidling Our Application
+## 300 - Building Our Application
 
 See [README.md](./300/README.md)
 
