@@ -1,6 +1,8 @@
 # stores_
 Stores
 
+Look at the macOS App “Under My Roof” for inspiration.
+
 ## 100 - Introduction
 
 ## 200 - Requirements
