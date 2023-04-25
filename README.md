@@ -1,7 +1,7 @@
 # stores_
 Stores
 
-Look at the macOS App “Under My Roof” for inspiration.
+Look at the macOS App “[Under My Roof](https://undermyroof.app/)” for inspiration.
 
 ## 100 - Introduction
 
